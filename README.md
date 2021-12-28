@@ -82,5 +82,5 @@
 ### 우리는 할 수 있어요!
 깃허브 옥토버스
 - 신뢰와 존중은 강한 문화에 기여합니다. [Supporting sustainable communities | The State of the Octoverse](https://octoverse.github.com/sustainable-communities/#trust-and-respect)
-	- 데이터가 보여주는 것: 우리는 오픈 소스의 팀보다 직장의 팀에서 (아마도 놀랍게도) 더 높은 매우 강력한 긍정적인 효과를 발견했습니다. **(높은 신뢰)[https://observablehq.com/d/98f08f40c3895b5d]**를 가진 팀은 **건전한 협업 문화를 가질 가능성이 더 높습니다.** 
+	- 데이터가 보여주는 것: 우리는 오픈 소스의 팀보다 직장의 팀에서 (아마도 놀랍게도) 더 높은 매우 강력한 긍정적인 효과를 발견했습니다. **높은 신뢰**를 가진 팀은 **건전한 협업 문화를 가질 가능성이 더 높습니다.** 
 	- **회사에서는 가능성이 2배**, 오픈 소스에서는 가능성이 3배 더 높습니다. 
